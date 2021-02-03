@@ -3,3 +3,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.first{
+    @apply rounded-lg font-londrina bg-red-400 h-40 w-40 p-4 m-2
+}
+
+.second{
+    @apply shadow-lg rounded-lg font-londrina bg-blue-400 h-40 w-40 p-4 m-2
+}
+
+.third{
+    @apply rounded-lg font-londrina bg-green-400 h-40 w-40 p-4 m-2
+}
+
+.fourth{
+    @apply rounded-lg font-londrina bg-purple-400 h-40 w-40 p-4 m-2
+}
