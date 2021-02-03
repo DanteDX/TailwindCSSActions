@@ -6,7 +6,7 @@ module.exports = {
       fontFamily:{
         londrina:['Londrina Solid']
       }
-    },
+    }
   },
   variants: {
     extend: {},
